@@ -1,7 +1,7 @@
 # SC-STGCN: Supply-Chain Aware Spatio-Temporal Graph Convolutional Network for CDS Spread Forecasting
 
 
-This repository contains the full implementation of **SC-STGCN**, a novel graph neural network architecture for forecasting weekly CDS (Credit Default Swap) spread changes among S&P 500 firms. The model incorporates supply-chain relationships as a structural prior, constructing a dual adjacency graph that captures both upstream (supplier) and downstream (customer) credit risk propagation.
+This repository contains the full implementation of **SC-STGCN**, a novel graph neural network architecture for forecasting weekly changes in CDS (Credit Default Swap) spreads among S&P 500 firms. The model incorporates supply-chain relationships as a structural prior, constructing a dual-adjacency graph that captures both upstream (supplier) and downstream (customer) credit-risk propagation.
 
 The framework combines spatio-temporal graph convolution with a temporal attention mechanism, outperforming eight benchmark models on a pre-COVID panel (2015–2020) of 50 degree-ranked S&P 500 firms.
 
@@ -21,10 +21,10 @@ SC-STGCN achieves positive R² and a Sharpe ratio of **2.064** versus **−0.251
 
 SC-STGCN extends the standard STGCN framework with:
 
-- **Dual adjacency matrix** — separate supplier and customer graphs derived from S&P Global supply-chain data
-- **Degree-ranked node selection** — top-50 firms selected by supply-chain connectivity degree
-- **Temporal Attention layer** — learned attention over the look-back window
-- **Walk-forward cross-validation** — time-series safe evaluation with no data leakage
+- **Dual adjacency matrix** separate supplier and customer graphs derived from S&P Global supply-chain data
+- **Degree-ranked node selection** top-50 firms selected by supply-chain connectivity degree
+- **Temporal Attention layer** learned attention over the look-back window
+- **Walk-forward cross-validation** time-series safe evaluation with no data leakage
 
 ### Benchmark Models
 
@@ -166,10 +166,10 @@ Customer and supplier linkages for each S&P 500 firm, used to construct the dire
 If you use this code in your research, please cite:
 
 ```bibtex
-@mastersthesis{duran2025scstgcn,
+@mastersthesis{duran2026scstgcn,
   author  = {Burhan Cahit Duran},
   title   = {Supply-Chain Aware Spatio-Temporal Graph Convolutional Network for CDS Spread Forecasting},
-  school  = {Özyeğin University},
+  school  = {Ozyegin University},
   year    = {2026},
   type    = {M.Sc. Thesis}
 }
