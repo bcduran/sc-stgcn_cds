@@ -21,10 +21,10 @@ SC-STGCN achieves positive R² and a Sharpe ratio of **2.064** versus **−0.251
 
 SC-STGCN extends the standard STGCN framework with:
 
-- **Dual adjacency matrix** separate supplier and customer graphs derived from S&P Global supply-chain data
-- **Degree-ranked node selection** top-50 firms selected by supply-chain connectivity degree
-- **Temporal Attention layer** learned attention over the look-back window
-- **Walk-forward cross-validation** time-series safe evaluation with no data leakage
+- **Dual adjacency matrix** : separate supplier and customer graphs derived from S&P Global supply-chain data
+- **Degree-ranked node selection** : top-50 firms selected by supply-chain connectivity degree
+- **Temporal Attention layer** :  learned attention over the look-back window
+- **Walk-forward cross-validation**:  time-series safe evaluation with no data leakage
 
 ### Benchmark Models
 
