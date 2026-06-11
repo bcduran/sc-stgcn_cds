@@ -1,17 +1,10 @@
 # SC-STGCN: Supply-Chain Aware Spatio-Temporal Graph Convolutional Network for CDS Spread Forecasting
 
-> M.Sc. Thesis — Data Science, Özyeğin University  
-> Supervised by Assoc. Prof. Emre Sefer
-
----
-
-## Overview
 
 This repository contains the full implementation of **SC-STGCN**, a novel graph neural network architecture for forecasting weekly CDS (Credit Default Swap) spread changes among S&P 500 firms. The model incorporates supply-chain relationships as a structural prior, constructing a dual adjacency graph that captures both upstream (supplier) and downstream (customer) credit risk propagation.
 
 The framework combines spatio-temporal graph convolution with a temporal attention mechanism, outperforming eight benchmark models on a pre-COVID panel (2015–2020) of 50 degree-ranked S&P 500 firms.
 
----
 
 ## Key Results
 
@@ -23,7 +16,6 @@ The framework combines spatio-temporal graph convolution with a temporal attenti
 
 SC-STGCN achieves positive R² and a Sharpe ratio of **2.064** versus **−0.251** for the undirected baseline, demonstrating that supply-chain topology provides statistically meaningful signal for credit risk forecasting.
 
----
 
 ## Model Architecture
 
