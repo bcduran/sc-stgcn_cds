@@ -170,7 +170,7 @@ If you use this code in your research, please cite:
   author  = {Burhan Cahit Duran},
   title   = {Supply-Chain Aware Spatio-Temporal Graph Convolutional Network for CDS Spread Forecasting},
   school  = {Özyeğin University},
-  year    = {2025},
+  year    = {2026},
   type    = {M.Sc. Thesis}
 }
 ```
