@@ -1,0 +1,15 @@
+\begin{table}
+\caption{Out-of-sample forecasting and backtest performance — DELTA mode. RMSE and MAE in basis points. Sharpe annualised (×√52).}
+\label{tab:results_delta}
+\begin{tabular}{lrrrrrr}
+\toprule
+Model & RMSE (bp) & MAE (bp) & R² (bp) & BT Sharpe & Hit Ratio & Max Drawdown \\
+\midrule
+AR(1) & 1.6137 & 0.9981 & -0.0001 & 6.1090 & 0.8260 & -0.0010 \\
+LSTM & 1.5956 & 0.9786 & 0.0222 & 5.3440 & 0.8260 & -0.0010 \\
+XGBoost & 2.9597 & 1.4876 & -2.3643 & 2.1340 & 0.5650 & -0.0020 \\
+V-STGCN & 1.6030 & 0.9953 & 0.0131 & 2.1460 & 0.6090 & -0.0040 \\
+SC-STGCN & 1.6316 & 0.9983 & -0.0224 & 2.5240 & 0.6090 & -0.0040 \\
+\bottomrule
+\end{tabular}
+\end{table}

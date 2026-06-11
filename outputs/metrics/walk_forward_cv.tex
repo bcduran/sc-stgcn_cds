@@ -1,0 +1,18 @@
+\begin{table}[ht]
+\vskip\baselineskip
+\caption{Walk-forward cross-validation results (3 folds). Mean $\pm$ standard deviation across folds.}
+\label{tab:wfcv}
+\begin{center}
+\begin{tabular}{lcccccc}
+\toprule
+\textbf{Model} & \textbf{RMSE} & \textbf{MAE} & \textbf{$R^2$} & \textbf{Sharpe} & \textbf{Hit Ratio} \\
+\midrule
+AR(1) & $3.162_{\pm0.737}$ & $1.712_{\pm0.389}$ & $-0.000_{\pm0.053}$ & $4.646_{\pm0.702}$ & $0.773_{\pm0.082}$ \\
+LSTM & $3.202_{\pm0.780}$ & $1.737_{\pm0.424}$ & $-0.018_{\pm0.011}$ & $-0.219_{\pm1.809}$ & $0.481_{\pm0.068}$ \\
+XGBoost & $3.748_{\pm0.494}$ & $2.045_{\pm0.294}$ & $-0.528_{\pm0.476}$ & $0.651_{\pm1.524}$ & $0.546_{\pm0.098}$ \\
+V-STGCN & $3.175_{\pm0.801}$ & $1.712_{\pm0.425}$ & $0.004_{\pm0.019}$ & $2.528_{\pm1.625}$ & $0.647_{\pm0.092}$ \\
+SC-STGCN & $3.197_{\pm0.746}$ & $1.741_{\pm0.393}$ & $-0.022_{\pm0.043}$ & $3.640_{\pm0.619}$ & $0.697_{\pm0.048}$ \\
+\bottomrule
+\end{tabular}
+\end{center}
+\end{table}

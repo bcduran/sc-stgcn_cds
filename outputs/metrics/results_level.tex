@@ -1,0 +1,15 @@
+\begin{table}
+\caption{Out-of-sample forecasting and backtest performance — LEVEL mode. RMSE and MAE in basis points. Sharpe annualised (×√52).}
+\label{tab:results_level}
+\begin{tabular}{lrrrrrr}
+\toprule
+Model & RMSE (bp) & MAE (bp) & R² (bp) & BT Sharpe & Hit Ratio & Max Drawdown \\
+\midrule
+AR(1) & 2.9973 & 1.5728 & 0.9708 & — & — & — \\
+LSTM & 3.4567 & 1.5695 & 0.9612 & — & — & — \\
+XGBoost & 46.5022 & 10.7085 & -6.0230 & — & — & — \\
+V-STGCN & 13.8935 & 6.9200 & 0.3731 & — & — & — \\
+SC-STGCN & 12.3702 & 6.1810 & 0.5030 & — & — & — \\
+\bottomrule
+\end{tabular}
+\end{table}

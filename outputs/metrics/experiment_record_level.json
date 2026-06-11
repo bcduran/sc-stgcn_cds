@@ -1,0 +1,53 @@
+{
+  "mode": "LEVEL",
+  "n_his": 7,
+  "n_pred": 1,
+  "split": [
+    0.8,
+    0.1,
+    0.1
+  ],
+  "seed": 42,
+  "results": {
+    "AR(1)": {
+      "rmse_bp": 2.9973,
+      "mae_bp": 1.5728,
+      "r2_bp": 0.9708,
+      "sharpe": null,
+      "hit": null,
+      "max_dd": null
+    },
+    "LSTM": {
+      "rmse_bp": 3.4567,
+      "mae_bp": 1.5695,
+      "r2_bp": 0.9612,
+      "sharpe": null,
+      "hit": null,
+      "max_dd": null
+    },
+    "XGBoost": {
+      "rmse_bp": 46.5022,
+      "mae_bp": 10.7085,
+      "r2_bp": -6.023,
+      "sharpe": null,
+      "hit": null,
+      "max_dd": null
+    },
+    "V-STGCN": {
+      "rmse_bp": 13.8935,
+      "mae_bp": 6.92,
+      "r2_bp": 0.3731,
+      "sharpe": null,
+      "hit": null,
+      "max_dd": null
+    },
+    "SC-STGCN": {
+      "rmse_bp": 12.3702,
+      "mae_bp": 6.181,
+      "r2_bp": 0.503,
+      "sharpe": null,
+      "hit": null,
+      "max_dd": null
+    }
+  }
+}

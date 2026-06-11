@@ -1,0 +1,56 @@
+# ── Python ──────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ─────────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ── Jupyter ──────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Model checkpoints (büyük dosyalar) ───────────
+outputs/checkpoints/*.pt
+outputs/checkpoints/*.pth
+# Ama metrics ve figürleri tut:
+!outputs/metrics/
+!outputs/figures/
+
+# ── Veri dosyaları (hassas/büyük) ────────────────
+data/raw/
+data/processed/
+data/top50/ve1.csv
+# Adjacency matrisleri de büyük olabilir:
+data/top50/*.npz
+
+# ── IDE ──────────────────────────────────────────
+.vscode/
+!.vscode/launch.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.user
+
+# ── OS ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Test artifacts ───────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ── Build artifacts ──────────────────────────────
+dist/
+build/
+*.egg-info/
+
+# ── Logs ─────────────────────────────────────────
+*.log

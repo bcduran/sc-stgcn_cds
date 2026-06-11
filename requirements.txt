@@ -1,0 +1,50 @@
+# ============================================================
+# GNN Thesis — Python Environment
+# SC-STGCN: Supply-Chain Aware CDS Spread Forecasting
+# Python >= 3.10
+# ============================================================
+
+# --- Core scientific stack ---
+numpy>=1.24,<2.0
+pandas>=2.0,<3.0
+scipy>=1.11,<2.0
+scikit-learn>=1.3,<2.0
+
+# --- Deep learning ---
+torch>=2.1,<3.0
+# For CUDA 11.8:  pip install torch --index-url https://download.pytorch.org/whl/cu118
+# For CUDA 12.1:  pip install torch --index-url https://download.pytorch.org/whl/cu121
+# For CPU only:   pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+# --- Gradient boosting ---
+xgboost>=2.0,<3.0
+
+# --- Time-series statistics ---
+statsmodels>=0.14,<1.0
+
+# --- Graph & network ---
+networkx>=3.1,<4.0
+scipy>=1.11                    # sparse matrix (adj.npz)
+
+# --- Visualization ---
+matplotlib>=3.7,<4.0
+seaborn>=0.13,<1.0
+
+# --- Data I/O ---
+openpyxl>=3.1,<4.0             # Excel read/write
+requests>=2.31,<3.0            # market cap scraping
+beautifulsoup4>=4.12,<5.0      # HTML parsing
+
+# --- Optional: portfolio analytics ---
+# vectorbt>=0.26                # uncomment if needed
+
+# --- Optional: graph embeddings ---
+# nodevectors>=0.9              # Node2Vec (pip install nodevectors)
+# node2vec>=0.4                 # alternative
+
+# --- Dev tools ---
+ipykernel>=6.25                # Jupyter in VS Code
+jupyter>=1.0
+black>=23.0                    # formatter
+isort>=5.12                    # import sorter
+pytest>=7.4                    # testing

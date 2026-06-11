@@ -1,0 +1,51 @@
+% Threshold = ±0.5 bp
+
+% TABLE 1 - CLASSIFICATION
+\begin{table}[ht]\centering
+\caption{Three-way classification results (threshold $=\pm0.5$~bp)}
+\label{tab:clf3}
+\begin{tabular}{lccccccc}\toprule
+Model & Acc & $\pm$ & Macro-F1 & $\pm$ & Wtd-F1 & $\pm$ & McNemar $p$ \\\midrule
+AR(1) & 0.3684 & 0.0330 & 0.2883 & 0.0088 & 0.2916 & 0.0085 & 0.501 \\
+LSTM & 0.4490 & 0.0096 & 0.4020 & 0.0183 & 0.4128 & 0.0282 & 0.016$^{**}$ \\
+XGBoost & 0.4077 & 0.0163 & 0.3939 & 0.0181 & 0.4035 & 0.0122 & 0.436 \\
+Informer & 0.4253 & 0.0067 & 0.4151 & 0.0156 & 0.4228 & 0.0087 & 0.268 \\
+Autoformer & 0.4187 & 0.0087 & 0.4102 & 0.0077 & 0.4135 & 0.0023 & 0.409 \\
+TimesNet & 0.4123 & 0.0023 & 0.4084 & 0.0027 & 0.4126 & 0.0024 & 0.520 \\
+V-STGCN & 0.3903 & 0.0083 & 0.2810 & 0.0760 & 0.3062 & 0.0685 & 0.653 \\
+\textbf{SC-STGCN} & 0.3980 & 0.0020 & 0.3498 & 0.0122 & 0.3698 & 0.0102 & nan \\
+\bottomrule\end{tabular}\end{table}
+
+% TABLE 2 - PER-CLASS
+\begin{table}[ht]\centering
+\caption{Per-class precision, recall, and F1}
+\label{tab:perclass}
+\begin{tabular}{l ccc ccc ccc}\toprule
+ & \multicolumn{3}{c}{DOWN} & \multicolumn{3}{c}{STABLE} & \multicolumn{3}{c}{UP} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}\cmidrule(lr){8-10}
+Model & P & R & F1 & P & R & F1 & P & R & F1 \\\midrule
+AR(1) & 0.621 & 0.144 & 0.231 & 0.339 & 0.903 & 0.491 & 0.340 & 0.091 & 0.142 \\
+LSTM & 0.473 & 0.621 & 0.537 & 0.443 & 0.569 & 0.492 & 0.388 & 0.125 & 0.177 \\
+XGBoost & 0.461 & 0.497 & 0.478 & 0.417 & 0.456 & 0.435 & 0.305 & 0.244 & 0.269 \\
+Informer & 0.469 & 0.460 & 0.463 & 0.431 & 0.501 & 0.461 & 0.346 & 0.300 & 0.321 \\
+Autoformer & 0.432 & 0.467 & 0.449 & 0.452 & 0.505 & 0.472 & 0.351 & 0.284 & 0.310 \\
+TimesNet & 0.475 & 0.451 & 0.462 & 0.437 & 0.467 & 0.445 & 0.320 & 0.326 & 0.318 \\
+V-STGCN & 0.414 & 0.766 & 0.528 & 0.362 & 0.207 & 0.210 & 0.240 & 0.071 & 0.104 \\
+\textbf{SC-STGCN} & 0.445 & 0.540 & 0.471 & 0.319 & 0.389 & 0.339 & 0.382 & 0.175 & 0.239 \\
+\bottomrule\end{tabular}\end{table}
+
+% TABLE 3 - PORTFOLIO
+\begin{table}[ht]\centering
+\caption{Portfolio results: UP$\to$short, DOWN$\to$long, STABLE$\to$flat}
+\label{tab:port3}
+\begin{tabular}{lcccccc}\toprule
+Model & Sharpe & $\pm$ & Mean Ret (bp) & Std (bp) & Max DD & Hit \\\midrule
+AR(1) & 2.8638 & 0.4925 & 165.9732 & 407.6771 & -0.0069 & 0.6357 \\
+LSTM & 1.9535 & 0.8225 & 31.6346 & 143.3673 & -0.0046 & 0.6738 \\
+XGBoost & 2.0022 & 0.5976 & 33.1695 & 122.8611 & -0.0028 & 0.6381 \\
+Informer & 0.2770 & 0.1760 & 3.3062 & 112.3215 & -0.0062 & 0.5714 \\
+Autoformer & -0.2249 & 0.1058 & -4.1097 & 118.4907 & -0.0038 & 0.4500 \\
+TimesNet & 0.2474 & 1.9290 & -2.6430 & 105.9775 & -0.0053 & 0.5000 \\
+V-STGCN & 2.3143 & 3.0624 & 38.3728 & 177.5652 & -0.0051 & 0.6786 \\
+\textbf{SC-STGCN} & -0.1113 & 0.1979 & -3.2146 & 259.4960 & -0.0115 & 0.5214 \\
+\bottomrule\end{tabular}\end{table}

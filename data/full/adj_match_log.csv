@@ -1,0 +1,584 @@
+Ticker,Score,GraphNode,CDS_Name
+A,1.0,"Agilent Technologies, Inc.",Agilent Technologies Inc
+AALLN,1.0,Anglo American plc,Anglo American PLC
+AAPL,1.0,Apple Inc.,Apple Inc
+ABBNVX,1.0,ABB Inc.,ABB Ltd
+ABC,0.872,AmerisourceBergen Drug Corporation,AmerisourceBergen Corp
+ABESM,0.821,"Ferroser Infraestructuras, S.A.",Abertis Infraestructuras SA
+ABIBB,0.962,Anheuser-Busch InBev SA/NV,Anheuser Busch InBev SA NV
+ABT,1.0,Abbott Laboratories International LLC,Abbott Laboratories
+ABXCN,1.0,Barrick Gold (Holdings) Limited,Barrick Gold Corp
+ACAFP,0.933,Crédit Agricole Group,Credit Agricole
+ACEIM,0.778,Acta S.p.A.,ACEA SpA
+ACFP,1.0,Accor SA,Accor SA
+ADENVX,1.0,Adecco Group AG,Adecco Group AG
+ADM,1.0,Archer-Daniels-Midland Company,Archer-Daniels-Midland Co
+ADNA,0.983,Koninklijke Ahold Delhaize N.V.,Koninklijke Ahold Delhaize NV
+ADP,1.0,"Automatic Data Processing, Inc.",Automatic Data Processing Inc
+ADSGR,1.0,adidas AG,adidas AG
+AEGON,0.778,Allego N.V.,Aegon NV
+AES,1.0,AES Corporation,The AES Corporation
+AET,1.0,Aetna Inc.,Aetna Inc
+AFG,1.0,"American Financial Group, Inc.",American Financial Group Inc
+AGRBK,1.0,Agricultural Bank of China Limited,Agricultural Bank of China Ltd
+AGSBB,0.769,Ageas (UK) Ltd.,Ageas
+AIFP,0.966,Air Liquide USA LLC,Air Liquide SA
+AIG,1.0,American International Holdings Corp.,American International Group Inc
+AIRFP,1.0,Airbus SE,Airbus SE
+AKZANA,0.963,Akzo Nobel N.V.,Akzo Nobel NV
+ALL,1.0,The Allstate Corporation,Allstate Corp
+ALLRNV,0.96,Alliander N.V.,Alliander NV
+ALLY,1.0,Ally Financial Inc.,Ally Financial Inc
+ALOFP,1.0,ALSTOM Holdings SA,Alstom SA
+ALPHA,0.727,Alpha Bay Corporation,Alpha Bank AE
+ALVGR,1.0,Allianz SE,Allianz SE
+AMAT,1.0,"Applied Materials, Inc.",Applied Materials Inc
+AMGN,1.0,Amgen Inc.,Amgen Inc
+AMT,1.0,American Tower Corporation,American Tower Corp
+AMXLMM,0.857,"América Móvil, S.A.B. de C.V.",America Movil SAB de CV
+AMZN,1.0,"Amazon.com, Inc.",Amazon.com Inc
+AN,1.0,"AutoNation, Inc.",AutoNation Inc
+ANGSJ,1.0,AngloGold Ashanti plc,AngloGold Ashanti
+ANTM,0.727,"ante4, Inc.",Anthem Inc
+ANZ,0.753,Australia and New Zealand Banking Group Limited - India Branches,Australia   New Zealand Banking
+APD,0.917,"Air Products and Chemicals, Inc.",Air Products   Chemicals Inc
+ARW,1.0,"Arrow Electronics, Inc.",Arrow Electronics Inc
+ASABRE,1.0,"Asahi Group Holdings, Ltd.",Asahi Group Holdings Ltd
+ASML,0.968,ASML Holding N.V.,ASML Holding NV
+ASSABS,0.839,ASSA ABLOY AB (publ),Assa Abloy AB
+ASSGEN,0.963,Assicurazioni Generali S.p.A.,Assicurazioni Generali SpA
+ATCOA,1.0,Atlas Copco AB,Atlas Copco AB
+ATLIM,0.8,Atlantis,Atlantia SpA
+AUCHAN,0.769,Auctane LLC,Auchan
+AVB,1.0,"AvalonBay Communities, Inc.",AvalonBay Communities Inc
+AVLN,1.0,Aviva Corp. Ltd.,Aviva PLC
+AVT,1.0,"Avnet, Inc.",Avnet Inc
+AVY,1.0,Avery Dennison Corporation,Avery Dennison Corp
+AXASA,1.0,AXA SA,AXA SA
+AXP,1.0,American Express Corp.,American Express
+AZN,1.0,AstraZeneca PLC,AstraZeneca PLC
+AZO,1.0,"AutoZone, Inc.",AutoZone Inc
+BA,1.0,The Boeing Company,The Boeing Co
+BAC,1.0,Bank of America Corporation,Bank of America Corp
+BACR,1.0,Barclays PLC,Barclays PLC
+BACRED,0.977,Mediobanca Banca di Credito Finanziario S.p.A.,Mediobanca - Banca di Credito Finanziario SpA
+BALN,1.0,"BAE Systems, Inc.",BAE SYSTEMS PLC
+BAMACN,0.75,Brooke Corporation,Brookfield
+BASGR,1.0,BASF SE,BASF SE
+BATSLN,0.889,British American Tobacco p.l.c.,British American Tobacco PLC
+BAX,1.0,Baxter International Inc.,Baxter International Inc
+BAYNGR,0.8,eBay International AG,Bayer AG
+BBDBCN,1.0,Bombardier Inc.,Bombardier Inc
+BBVAR,0.667,NO_MATCH,BBVA
+BBVASM,0.986,"Banco Bilbao Vizcaya Argentaria, S.A.",Banco Bilbao Vizcaya Argentaria SA
+BBY,1.0,"Best Buy Co., Inc.",Best Buy Co Inc
+BCECN,1.0,"Bell Canada, Inc.",Bell Canada
+BCHINA,1.0,Bank of China Limited,Bank of China
+BCJAF,0.611,NO_MATCH,Kingdom of Spain
+BCPPL,0.947,"Banco Comercial Português, S.A.",Banco Comercial Portugues SA
+BDX,0.889,"Becton, Dickinson U.K. Limited",Becton Dickinson
+BERTEL,1.0,"Bertelsmann, Inc.",Bertelsmann
+BFCM,0.75,Crédit Mutuel Arkéa,Credit Mutuel
+BHI,1.0,Baker Hughes Limited,Baker Hughes Holdings
+BK,1.0,The Bank of New York Mellon,The Bank of New York Mellon Corporation
+BKIASM,0.947,"Bankia, S.A.",Bankia SA
+BKIR,1.0,Bank of Ireland,Bank of Ireland Group Plc
+BKTSM,0.96,"Bankinter, S.A.",Bankinter SA
+BLL,1.0,Ball Corporation,Ball Corp
+BMW,0.771,Bayerische Motoren Werke Aktiengesellschaft,Bayerische Motoren Werke AG
+BMY,1.0,Bristol-Myers Squibb International Corporation,Bristol Myers Squibb Co
+BNFP,0.947,Danone S.A.,Danone SA
+BNFPL,0.686,NO_MATCH,Portuguese Republic
+BNKEA,1.0,"The Bank of East Asia, Limited",Bank of East Asia Ltd
+BNP,1.0,BNP Paribas SA,BNP Paribas SA
+BNSF,1.0,"Burlington Northern Santa Fe, LLC",Burlington Northern Santa Fe LLC
+BPLN,1.0,BP International Limited,BP PLC
+BRK,1.0,Berkshire Hathaway Inc.,Berkshire Hathaway Inc
+BSX,1.0,Boston Scientific Corporation,Boston Scientific Corp
+BWA,1.0,BorgWarner Inc.,BorgWarner Inc
+BYLAN,1.0,Bayerische Landesbank,Bayerische Landesbank
+C,1.0,Citigroup Inc.,Citigroup Inc
+CAFP,1.0,Carrefour SA,Carrefour SA
+CAG,1.0,"Conagra Brands, Inc.",Conagra Brands Inc
+CAH,1.0,"Cardinal Health, Inc.",Cardinal Health Inc
+CAIXAB,0.71,NO_MATCH,Criteria Caixa SAU
+CAPFP,1.0,Capgemini SE,Capgemini SE
+CAR,1.0,"Avis Budget Group, Inc.",Avis Budget
+CARGIL,1.0,"Cargill, Incorporated",Cargill Inc
+CAT,1.0,Caterpillar Inc.,Caterpillar Inc
+CB,1.0,Chubb Limited,Chubb Ltd
+CBAAU,1.0,Commonwealth Bank of Australia,Commonwealth Bank of Australia
+CCB,1.0,China Construction Bank Corporation,China Construction Bank Corp
+CCI,1.0,Crown Castle Inc.,Crown Castle International Corp
+CDBLFD,1.0,China Development Bank,China Development Bank
+CDEL,0.818,Corporación Nacional del Cobre de Chile,Corp Nacional del Cobre de Chile
+CECGR,1.0,Ceconomy AG,CECONOMY AG
+CHMFRU,0.71,NO_MATCH,Severstal OAO
+CHUGEP,1.0,"The Chugoku Electric Power Co., Inc.",The Chugoku Electric Power Co Inc
+CI,1.0,The Cigna Group,Cigna Corp
+CITLTD,1.0,CITIC Limited,CITIC Ltd
+CITNAT,1.0,Kookmin Bank International Ltd.,Kookmin Bank
+CITOH,1.0,ITOCHU Corporation,ITOCHU Corp
+CJRAIL,0.667,NO_MATCH,Central Japan Railway Co
+CL,1.0,Colgate-Palmolive Company,Colgate-Palmolive Co
+CLX,1.0,The Clorox Company,Clorox Co
+CMACG,0.952,CMA CGM S.A.,CMA CGM SA
+CMCSA,1.0,Comcast Corporation,Comcast Corp
+CMI,1.0,Cummins Inc.,Cummins Inc
+CMZB,1.0,Commerzbank AG,Commerzbank AG
+CNA,1.0,CNA Financial Corporation,CNA Financial Corp
+CNALN,1.0,Centrica plc,Centrica PLC
+CNHI,0.971,CNH Industrial N.V.,CNH Industrial NV
+CNOOC,1.0,CNOOC Limited,CNOOC
+CNP,1.0,"CenterPoint Energy, Inc.",CenterPoint Energy Inc
+CNQCN,1.0,Canadian Natural Resources Limited,Canadian Natural Resources Ltd
+CNRCN,1.0,Canadian National Railway Company,Canadian National Railway Co
+CNUNZ,0.909,"Corus Group, LLC",Chorus Ltd
+COF,1.0,Capital One Financial Corporation,Capital One Financial Corp
+COFP,0.591,NO_MATCH,Casino Guichard Perrachon SA
+COMQAT,0.93,The Commercial Bank (P.S.Q.C.),Commercial Bank PSQC
+CONGR,0.897,"Continental Gas, Inc.",Continental AG
+COP,1.0,ConocoPhillips Company,ConocoPhillips
+COST,1.0,Costco Wholesale Corporation,Costco Wholesale Corp
+COXENT,1.0,"Cox Communications, Inc.",COX Communications Inc
+CPB,1.0,Campbell Soup Company,Campbell Soup Co
+CPGLN,1.0,"Compass, Inc.",Compass Group Plc
+CPT,1.0,Camden Property Trust,CAMDEN PROPERTY TRUST
+CS,1.0,Credit Suisse Group AG,Credit Suisse Group AG
+CSCO,1.0,Cisco Systems Ltd.,Cisco Systems Inc
+CSX,1.0,CSX Corporation,CSX Corp
+CTVA,0.895,"DuPont de Nemours, Inc.",EI du Pont de Nemours & Co
+CVS,1.0,CVS Health Corporation,CVS Health Corp
+CVX,1.0,Chevron Corporation,Chevron Corp
+CXGD,0.945,"Caixa Geral de Depósitos, S.A.",Caixa Geral de Depositos SA
+D,1.0,"Dominion Energy, Inc.",Dominion Energy
+DAIGR,0.7,NO_MATCH,Daimler AG
+DAIWA,1.0,Daiwa Securities Group Inc.,Daiwa Securities Group Inc
+DAL,1.0,"Delta Air Lines, Inc.",Delta Air Lines Inc
+DANBNK,0.846,Danske Bank A/S,Danske Bank
+DB,0.938,Deutsche Bahn AG,Deutsche Bank AG
+DBHNGR,0.783,"Deutsch LA, Inc.",Deutsche Bahn
+DBOERS,0.914,Deutsche Börse AG,Deutsche Boerse AG
+DE,1.0,Deere & Company,Deere   Co
+DEPFA,0.842,Dena Bank,DEPFA Bank
+DEVOBA,0.968,de Volksbank N.V.,de Volksbank NV
+DGELN,1.0,Diageo plc,Diageo PLC
+DGFP,1.0,Vinci SA,Vinci SA
+DGX,1.0,Quest Diagnostics Incorporated,Quest Diagnostics Inc
+DHI,0.947,"D.R. Horton, Inc.",DR Horton Inc
+DHR,1.0,Danaher Corporation,Danaher Corp
+DNBNO,1.0,DNB Bank ASA,DNB Bank ASA
+DOV,1.0,Dover Corporation,Dover Corp
+DOW,1.0,The Dow Chemical Company,Dow Chemical Co The
+DPWDU,1.0,DP World Limited,DP World Ltd
+DPWGR,1.0,Deutsche Post AG,Deutsche Post AG
+DRI,1.0,"Darden Restaurants, Inc.",Darden Restaurants Inc
+DSM,0.811,Koninklijke KPN N.V.,Koninklijke DSM NV
+DT,1.0,Deutsche Telekom AG,Deutsche Telekom AG
+DTE,1.0,DTE Energy Company,DTE Energy Co
+DVN,0.833,Deveron Corp.,DEVON
+DXC,1.0,DXC Technology Company,DXC Technology Co
+DZBK,0.857,DAB Bank AG,DZ Bank AG
+EBIUH,0.872,Emirates NBD Bank PJSC,Emirates NBD PJSC
+ED,1.0,"Consolidated Edison, Inc.",Consolidated Edison Inc
+EDF,0.939,Electricité de France S.A.,Electricite de France SA
+EDPPL,0.982,"EDP - Energias de Portugal, S.A.",EDP   Energias de Portugal SA
+EIBKOR,0.807,Export-Import Bank Of Thailand,Export Import Bank of Korea
+EJRAIL,0.743,Pakistan Railways,East Japan Railway Co
+EMN,1.0,Eastman Chemical Company,Eastman Chemical Co
+EMR,1.0,Emerson Electric Co.,Emerson Electric Co
+ENBCN,1.0,Enbridge Inc.,Enbridge Inc
+ENBW,0.955,EnBW Energie Baden-Württemberg AG,EnBW Energie Baden Wuerttemberg AG
+ENELIM,1.0,Enel SpA,Enel SpA
+ENFP,1.0,Bouygues SA,Bouygues SA
+ENGALL,0.7,NO_MATCH,GIE ENGIE
+ENGIFP,1.0,Engie SA,Engie SA
+ENIIM,0.875,Eni S.p.A.,Eni SpA
+EOANGR,1.0,E.ON SE,E.ON SE
+EOFP,0.8,FAREVA SA,Faurecia SA
+EOG,1.0,"EOG Resources, Inc.",EOG Resources Inc
+EQIX,1.0,Equinix Group Limited,Equinix Inc
+EQNR,1.0,Equinor ASA,Equinor ASA
+ERICB,0.925,Telefonaktiebolaget LM Ericsson (publ),Telefonaktiebolaget LM Ericsson
+ERSTBK,1.0,Erste Group Bank AG,Erste Group Bank AG
+ET,1.0,Energy Transfer LP,Energy Transfer LP
+ETEGA,0.981,National Bank of Greece S.A.,National Bank of Greece SA
+ETN,1.0,Eaton Corporation plc,Eaton
+ETR,1.0,Entergy Corporation,Entergy
+EUROB,0.957,Eurobank S.A.,Eurobank SA
+EVKGR,1.0,Evonik Corporation,Evonik
+EWE,0.857,Loewe AG,EWE AG
+EXPE,1.0,"Expedia, Inc.",Expedia Group Inc
+F,1.0,Ford Motor Company Limited,Ford Motor Co
+FABUH,0.943,First Abu Dhabi Bank P.J.S.C.,First Abu Dhabi Bank PJSC
+FCAIM,0.982,Fiat Chrysler Automobiles N.V.,Fiat Chrysler Automobiles NV
+FCGNZ,0.875,Onterran Limited,Fonterra
+FDX,1.0,FedEx Corporation,FedEx Corp
+FFHCN,0.769,"CARFAX, Inc.",Fairfax
+FLEX,1.0,Flextronics Corporation,Flextronics International Ltd
+FMEGR,1.0,Fresenius Medical Care AG,Fresenius Medical Care AG 
+FREGR,1.0,Fresenius SE & Co. KGaA,Fresenius SE   Co KGaA
+FRFP,0.875,Valeo SE,Valeo SA
+FRT,1.0,Federal Realty Investment Trust,Federal Realty Investment Trust
+FTI,1.0,TechnipFMC plc,TechnipFMC PLC
+FUMVFH,1.0,Fortum Oyj,Fortum Oyj
+GALPPL,0.976,"Galp Energia, SGPS, S.A.",Galp Energia SGPS SA
+GAZPRU,0.667,NO_MATCH,Gazprom
+GD,1.0,General Dynamics Limited,General Dynamics Corp
+GE,1.0,General Electric Company,General Electric Co
+GFCFP,0.824,GECI International S.A.,Gecina SA
+GIS,1.0,"General Mills, Inc.",General Mills Inc
+GLW,1.0,Corning Incorporated,Corning Inc
+GM,1.0,General Motors Limited,General Motors Co
+GMGAU,1.0,Goodman Group,Goodman Group
+GMT,1.0,GATX Corporation,GATX Corporation
+GP,1.0,Georgia-Pacific LLC,GEORGIA-PACIFIC CORP
+GS,1.0,"The Goldman Sachs Group, Inc.",Goldman Sachs Group Inc The
+GSK,1.0,GlaxoSmithKline Inc.,GlaxoSmithKline PLC
+GT,1.0,Goodyear International Corporation,Goodyear
+HAL,1.0,Halliburton Company,Halliburton Co
+HAS,1.0,"Hasbro, Inc.",Hasbro Inc
+HCOB,1.0,Hamburg Commercial Bank AG,Hamburg Commercial Bank AG
+HD,1.0,"The Home Depot, Inc.",Home Depot Inc The
+HEIANA,0.957,Heineken N.V.,Heineken NV
+HEIGR,0.667,NO_MATCH,HeidelbergCement AG
+HENKEL,1.0,Henkel AG & Co. KGaA,Henkel AG   Co KGaA
+HES,1.0,Hess Corporation,Hess Corporation
+HESLAN,0.963,Landesbank Hessen-Thüringen Girozentrale,Landesbank Hessen-Thueringen Girozentrale
+HIG,1.0,"The Hartford Financial Services Group, Inc.",Hartford Financial Services Group Inc
+HMSOLN,0.8,Hammer plc,Hammerson Plc
+HNDA,1.0,"Honda Motor Co., Ltd.",Honda Motor Co Ltd
+HOFP,0.947,Thales S.A.,Thales SA
+HON,1.0,Honeywell Ltd.,Honeywell International Inc
+HOTGR,1.0,HOCHTIEF Aktiengesellschaft,HOCHTIEF Aktiengesellschaft
+HPQ,1.0,HP Inc.,HP Inc
+HRB,1.0,"H&R Block, Inc.",H&R Block Inc
+HSBC,1.0,HSBC Holdings plc,HSBC Holdings PLC
+HSECN,1.0,Husky Energy Inc.,Husky Energy
+HSY,1.0,The Hershey Company,The Hershey Co
+HTOGA,0.83,"Javelin Telecommunications, Ltd.",Hellenic Telecommunications
+HUM,1.0,Humana Inc.,Humana Inc
+HUN,1.0,Huntsman International LLC,Huntsman International LLC
+HYNMTR,1.0,"Hyundai Group Co., Ltd.",Hyundai
+HYSAN,0.75,SAN Holdings Inc.,Hysan Ltd
+HYUELE,1.0,SK hynix Inc.,SK Hynix Inc
+IAGLN,0.98,International Consolidated Airlines Group S.A.,International Consolidated Airlines Group SA
+IBESM,0.96,"Iberdrola, S.A.",Iberdrola SA
+IBM,1.0,International Business Machines Corporation,International Business Machines Corp
+ICICI,1.0,ICICI Bank Limited,ICICI Bank Ltd
+IGT,1.0,International Game Technology PLC,International Game Technology Plc
+IMBLN,0.857,Imperial Bank Limited,Imperial Brands PLC
+INDKOR,1.0,Industrial Bank of Korea,Industrial Bank of Korea
+INEGRP,1.0,INEOS Group Limited,INEOS
+INTC,1.0,Intel Corporation,Intel Corp
+INTNED,0.96,ING Groep N.V.,ING Groep NV
+INTU,1.0,Intuit Inc.,Intuit Inc
+INVSA,0.857,Vivesto AB,Investor AB
+IP,1.0,"International Paper, Inc.",International Paper Co
+IPG,0.875,"The Interpublic Group of Companies, Inc.",Interpublic Group of Cos
+ISPIM,0.95,Intesa Sanpaolo S.p.A.,Intesa Sanpaolo SpA
+ISRELE,1.0,The Israel Electric Corporation Limited,Israel Electric Corp Ltd
+ISSDC,1.0,ISS Global A/S,ISS Global A/S
+ITVLN,1.0,ITV plc,ITV Plc
+ITW,1.0,Illinois Tool Works Inc.,Illinois Tool Works Inc
+JAPTOB,1.0,Japan Tobacco Inc.,Japan Tobacco
+JCI,1.0,"Johnson Controls, Inc.",Johnson Controls International plc
+JNJ,1.0,Johnson & Johnson Inc.,Johnson   Johnson
+JNPR,1.0,"Juniper Networks, Inc.",Juniper Networks Inc
+JPM,1.0,JPMorgan Chase & Co.,JPMorgan Chase   Co
+JWN,1.0,"Nordstrom, Inc.",Nordstrom Inc
+K,0.824,WK Kellogg Co,Kellogg Co
+KANSEL,1.0,"The Kansai Electric Power Company, Incorporated",The Kansai Electric Power Company Inc
+KBCBB,1.0,KBC Group NV,KBC Group NV
+KERFP,0.833,"Keurig, Incorporated",Kering
+KIAMTR,0.9,VIA Motors Inc.,Kia Motors Corp
+KIM,1.0,Kimco Realty Corporation,Kimco Realty Corp
+KMB,1.0,Kimberly-Clark Ltd.,Kimberly Clark Corp
+KMI,0.897,"Kinder Morgan, Inc.",Kinder Morgan Inc DE
+KO,1.0,Coca-Cola Ltd.,Coca Cola Co The
+KORELE,1.0,Korea Electric Power Corporation,Korea Electric Power Corp
+KOROIL,0.8,National Oil Corporation,Korea National Oil Corp
+KPN,0.821,Koninklijke Vopak N.V.,Koninklijke KPN NV
+KR,1.0,The Kroger Co.,The Kroger Co
+KSS,1.0,"Kohl's, Inc.",Kohl's Corp
+L,1.0,Loews Corporation,Loews Corp
+LBBW,0.722,Landesbank Berlin AG,Landesbank Baden
+LDOIM,0.923,Leonardo S.p.a.,Leonardo SpA
+LEN,1.0,Lennar Corporation,Lennar Corp
+LEVI,1.0,Levi Strauss & Co.,Levi Strauss & Co
+LGEN,1.0,Legal & General Group Plc,Legal & General Group Plc
+LGFP,0.952,Lafarge S.A.,LAFARGE SA
+LH,1.0,"Laboratory Corporation of America, Inc.",Laboratory Corp of America Holdings
+LHAGR,1.0,Deutsche Lufthansa AG,Deutsche Lufthansa AG
+LHNVX,0.632,NO_MATCH,LafargeHolcim Ltd
+LIFP,0.667,NO_MATCH,Klepierre SA
+LIFUNG,1.0,Li & Fung Limited,Li & Fung Limited
+LLY,1.0,Eli Lilly International Corporation,Eli Lilly & Co
+LMT,1.0,Lockheed Martin Corporation,Lockheed Martin Corp
+LNC,1.0,Lincoln National Corporation,Lincoln National Corp
+LOUDRE,0.897,Louis Dreyfus Corporation,Louis Dreyfus Co BV
+LOW,0.75,"Lowe's Companies, Inc.",Lowe's Cos Inc
+LOXAM,0.737,Oldham SAS,Loxam SAS
+LRFP,1.0,Legrand SA,Legrand SA
+LUKOIL,0.706,NO_MATCH,Lukoil
+LUV,1.0,Southwest Airlines Co.,Southwest Airlines Co
+LXSGR,0.824,LANXESS Inc.,LANXESS AG
+MAR,1.0,"Marriott International, Inc.",Marriott International Inc
+MARUB,1.0,Marubeni Corporation,Marubeni Corp
+MAS,1.0,Masco Corporation,Masco Corp
+MASQUH,1.0,Mashreqbank PSC,Mashreqbank psc
+MATSEL,1.0,Panasonic Holdings Corporation,Panasonic Corporation
+MCD,1.0,McDonald's Corporation,McDonald's Corp
+MCFP,0.925,LVMH Moët Hennessy Louis Vuitton Inc.,LVMH Moet Hennessy Louis Vuitton SE
+MCK,1.0,McKesson Corporation,McKesson Corp
+MDC,0.857,NMDC Limited,MDC Holdings Inc
+MDLZ,1.0,"Mondelez International, Inc.",Mondelez International Inc
+MET,1.0,"Metlife Group, Inc.",MetLife Inc
+METSO,0.778,Kesko Oyj,Metso Oyj
+MHK,0.8,Hawk Corporation,Mohawk
+MITCO,1.0,Mitsubishi Corporation,Mitsubishi Corp
+MITSRE,1.0,"Mitsui Fudosan Co., Ltd.",Mitsui Fudosan Co Ltd
+MIZUHO,0.833,Mizuno Corporation,Mizuho
+MLM,1.0,"Martin Marietta Materials, Inc.",Martin Marietta Materials Inc
+MMBFP,0.96,Lagardere SA,Lagardere SCA
+MMC,0.875,"Marsh & McLennan Companies, Inc.",Marsh & McLennan Cos Inc
+MMM,1.0,3M Company,3M Co
+MMP,0.984,"Magellan Midstream Partners, L.P.",Magellan Midstream Partners LP
+MO,1.0,"Altria Group, Inc.",Altria Group Inc
+MONTE,0.972,Banca Monte dei Paschi di Siena S.p.A.,Banca Monte dei Paschi di Siena SpA
+MOS,1.0,Monsanto Company,Monsanto
+MPLX,1.0,MPLX LP,MPLX LP
+MQGAU,1.0,Macquarie Group Limited,Macquarie Group Ltd
+MRK,1.0,Merck Limited,Merck   Co Inc
+MRKGR,1.0,Merck KGaA,Merck KGaA
+MRO,1.0,Marathon Oil Corporation,Marathon Oil Corp
+MS,1.0,Morgan Stanley,Morgan Stanley
+MSFT,1.0,Microsoft Corporation,Microsoft Corp
+MSI,1.0,"Motorola Solutions, Inc.",Motorola Solutions Inc
+MSINS,0.794,"Mitsui Sumitomo Primary Life Insurance Company, Limited",Mitsui Sumitomo Insurance Co Ltd
+MTNA,0.97,ArcelorMittal USA LLC,ArcelorMittal SA
+MUBAUH,0.932,Mamoura Diversified Global Holding PJSC,Mamoura Diversified Global Holding
+MUV2.DE,0.706,NO_MATCH,Munich Re
+MWDP,0.8,Endemol USA Inc.,Wendel SA
+NAB,1.0,National Australia Bank Limited,National Australia Bank Ltd
+NBL,1.0,Noble Energy International Ltd.,Noble Energy
+NDASS,1.0,Nordea Bank Abp,Nordea Bank Abp
+NDB,1.0,Norddeutsche Landesbank Girozentrale,Norddeutsche Landesbank Girozentrale
+NEE,1.0,"NextEra Energy, Inc.",NextEra Energy Inc
+NEM,0.759,Newcrest Mining Limited,Newmont Mining Corp
+NESNVX,0.842,"Nestlé USA, Inc.",Nestle SA
+NGGLN,1.0,National Grid plc,National Grid PLC
+NI,1.0,NiSource Inc.,Nisource
+NKE,1.0,"NIKE, Inc.",NIKE Inc
+NNGRNV,0.667,NO_MATCH,NN Group NV
+NOC,1.0,Northrop Grumman Corporation,Northrop Grumman Corp
+NOKIA,1.0,Nokia Oyj,Nokia OYJ
+NOMURA,1.0,"Nomura Holdings, Inc.",Nomura Holdings Inc
+NOVBNC,0.75,Novonor S.A.,Novo Banco SA
+NOVNVX,1.0,Novartis AG,Novartis AG
+NRG,1.0,"NRG Energy, Inc.",NRG Energy Inc
+NRUC,1.0,National Rural Utilities Cooperative Finance Corporation,National Rural Utilities Cooperative Finance Corp
+NSANY,1.0,"Nissan Motor Co., Ltd.",Nissan Motor Co Ltd
+NSC,1.0,Norfolk Southern Corporation,Norfolk Southern Corp
+NTGYSM,0.971,"Naturgy Energy Group, S.A.",Naturgy Energy Group SA
+NTT,0.929,Nippon Telegraph and Telephone Corporation,Nippon Telegraph & Telephone Corp
+NUE,1.0,Nucor Corporation,Nucor Corp
+NVFVES,0.846,Fives S.A.S.,Novafives S.A.S.
+NVR,1.0,"NVR, Inc.",NVR Inc
+NWG,1.0,The Royal Bank Of Scotland,Royal Bank of Scotland Group PLC
+NWIDE,1.0,Nationwide Building Society,Nationwide Building Society
+OC,1.0,Owens Corning,Owens Corning
+OCBCSP,1.0,Oversea-Chinese Banking Corporation Limited,Oversea-Chinese Banking Corp Ltd
+ODGR,0.842,"Telefonix, Inc.",Telefonica
+OKE,1.0,"ONEOK, Inc.",ONEOK Inc
+OMC,1.0,Omnicom Group Inc.,Omnicom
+ORAFP,0.947,Orange S.A.,Orange SA
+ORCL,1.0,Oracle Corporation,Oracle Corp
+ORIX,1.0,ORIX Corporation,ORIX Corp
+ORSTED,0.8,Ørsted A/S,Orsted A S
+PAA,0.984,"Plains All American Pipeline, L.P.",Plains All American Pipeline LP
+PEAK,1.0,"Healthpeak Properties, Inc.",Healthpeak Properties Inc
+PEMEX,0.947,Petróleos Mexicanos,Petroleos Mexicanos
+PEP,1.0,PepsiCo International Limited,PepsiCo Inc
+PETBRA,0.764,Petróleo Brasileiro S.A. - Petrobras,Petroleo Brasileiro SA
+PETMK,0.857,Petron Corporation,PETRONAS
+PEUGOT,0.952,Peugeot S.A.,Peugeot SA
+PFE,1.0,Pfizer Inc.,Pfizer Inc
+PG,1.0,The Procter & Gamble Company,Procter   Gamble Co The
+PGR,1.0,The Progressive Corporation,The Progressive Corporation
+PHIANA,0.978,Koninklijke Philips N.V.,Koninklijke Philips NV
+PHM,1.0,"PulteGroup, Inc.",PulteGroup Inc
+PKG,1.0,Packaging Corporation of America,Packaging Corp of America
+PM,1.0,Philip Morris Limited,Philip Morris International Inc
+PNC,1.0,"The PNC Financial Services Group, Inc.",PNC Financial Services
+POHANG,1.0,POSCO Holdings Inc.,POSCO
+PPG,1.0,"PPG Industries, Inc.",PPG Industries Inc
+PROXBB,0.842,Proximus PLC,Proximus SA
+PRU,1.0,Prudential plc,Prudential
+PRUFIN,0.8,Prudential Five Limited,Prudential PLC
+PSMGR,1.0,ProSiebenSat.1 Media SE,ProSiebenSat.1 Media SE
+PUBFP,0.973,Publicis Groupe S.A.,Publicis Groupe SA
+PXD,1.0,Pioneer Natural Resources Company,Pioneer Natural Resources Co
+QBEAU,1.0,QBE Insurance Group Limited,QBE Insurance Group Ltd
+R,1.0,"Ryder System, Inc.",Ryder System Inc
+RABOBK,1.0,Rabobank International,Rabobank
+RBIAV,1.0,Raiffeisen Bank International AG,Raiffeisen Bank International AG
+RBOSGR,0.828,Robert Bosch GmbH,Robert Bosch
+RCICN,1.0,Rogers Communications Inc.,Rogers Communications Inc
+RDSALN,0.737,Royal Dutch Petroleum Co.,Royal Dutch Shell PLC
+REESM,0.778,Dachs Electronica Sa,Red Electrica Corp SA
+REG,0.973,"Regency Centers, L.P.",Regency Centers LP
+RELLN,1.0,RELX Group plc,RELX PLC
+RENAUL,1.0,Renault SA,Renault SA
+REPSM,0.947,"Repsol, S.A.",Repsol SA
+RIFP,1.0,Pernod Ricard SA,Pernod Ricard SA
+RILIN,1.0,Reliance Industries Limited,Reliance Industries Ltd
+RL,1.0,Ralph Lauren Corporation,Ralph Lauren Corp
+ROSNRM,0.636,NO_MATCH,Rosneft Oi
+RSG,1.0,"Republic Services, Inc.",Republic Services Inc
+RTOLN,1.0,Rentokil Initial plc,Rentokil Initial PLC
+RTX,1.0,Raytheon Technologies Corporation,Raytheon Technologies Corp
+RWE,0.75,Repower AG,RWE AG
+RXLFP,0.941,Rexel S.A.,Rexel SA
+SABIC,0.889,Abic Ltd.,SABIC
+SABSM,0.976,"Banco de Sabadell, S.A.",Banco de Sabadell SA
+SAMBA,1.0,Samba Financial Group,Samba Financial
+SANFP,1.0,Sanofi,Sanofi
+SANSCF,0.929,"SANTANDER CONSUMER FINANCE, S.A.",Santander Consumer Finance
+SANTAN,0.973,"Banco Santander, S.A.",Banco Santander SA
+SANUK,1.0,Santander UK plc,Santander UK Plc
+SANUSA,1.0,"Santander Holdings USA, Inc.",Santander Holdings USA
+SAPSJ,0.696,NO_MATCH,Sappi Papier Holding GmbH
+SBERRU,0.778,IBERIABANK Corporation,Sberbank
+SBIIN,1.0,State Bank of India,State Bank of India
+SCANIA,0.842,Sanitas AB,Scania AB
+SCBGER,0.962,Santander Consumer Bank AS,Santander Consumer Bank AG
+SCBNOR,0.943,Santander Consumer Bank S.A.,Santander Consumer Bank AS
+SCHW,1.0,The Charles Schwab Corporation,The Charles Schwab Corp
+SCMNVX,1.0,Swisscom AG,Swisscom AG
+SCOR,1.0,SCOR SE,SCOR SE
+SDFGR,0.833,KPS AG,K+S AG
+SEB,0.954,Skandinaviska Enskilda Banken A/S,Skandinaviska Enskilda Banken AB
+SEE,1.0,Sealed Air Corporation,Sealed Air Corp
+SESGFP,0.923,SES S.A.,SES SA
+SFD,1.0,"Smithfield Foods, Inc.",Smithfield Foods Inc
+SFRFP,0.867,TIE France SAS,Altice France SA
+SGOFP,0.792,Compagnie de Saint-Gobain S.A.,Cie de Saint Gobain
+SGTOPT,0.889,OPUS Group Limited,Optus
+SHBASS,0.906,Svenska Handelsbanken AB (publ),Svenska Handelsbanken AB
+SHIMAO,1.0,Shimao Group Holdings Limited,Shimao Group Holdings Ltd
+SHNHAN,1.0,Shinhan Bank,Shinhan Bank Co Ltd
+SHW,0.821,The Sherwin-Williams Company,Sherwin-Williams Co/The
+SIBNEF,0.714,NO_MATCH,Gazprom Neft
+SIEGR,1.0,Siemens AG,Siemens AG
+SJNKI,1.0,Sompo Japan Insurance Inc.,Sompo Japan Insurance Inc
+SKENER,1.0,"SK Innovation Co., Ltd.",SK Innovation Co Ltd
+SKM,1.0,"SK Telecom Co., Ltd.",SK Telecom Co Ltd
+SLB,1.0,Schlumberger Limited,Schlumberger
+SLG,0.75,"Greenwave Reality, Inc.",SL Green Realty
+SMINLN,1.0,Smiths Group plc,Smiths Group PLC
+SO,1.0,"The Southern Company, Inc.",Southern Co The
+SOCGEN,0.878,Societe Generale Ghana PLC,Societe Generale SA
+SOFTBK,1.0,SoftBank Corp.,SoftBank Group Corp
+SOLBBB,1.0,Solvay SA,Solvay SA
+SPGI,1.0,S&P Global Inc.,S&P Global Inc
+SPLLLC,1.0,"Sabine Pass Liquefaction, LLC",Sabine Pass Liquefaction
+SRE,0.88,Emera Energy Incorporated,Sempra Energy
+SSELN,1.0,SSE plc,SSE PLC
+STANLN,1.0,Standard Chartered PLC,Standard Chartered PLC
+STEDIN,0.8,STEN Corporation,Stedin
+STENA,0.778,Extenda AB,Stena AB
+STERV,1.0,Stora Enso Oyj,Stora Enso Oyj
+STLA,0.963,Stellantis N.V.,Stellantis NV
+STOAU,1.0,Santos Limited,Santos Ltd
+STSP,0.857,Pingtel Corporation,SingTel Group
+STYRO,0.909,FINEOS Corporation Holdings plc,INEOS Ltd
+STZ,1.0,"Constellation Brands, Inc.",Constellation Brands Inc
+SUCN,1.0,Suncor Energy Inc.,Suncor Energy Inc
+SUFP,0.977,Schneider Electric S.E.,Schneider Electric SE
+SUMI,1.0,Sumitomo Corporation,Sumitomo Corp
+SUMIFL,0.857,"Sumitomo Mitsui Card Co., Ltd.",Sumitomo Mitsui
+SUNAU,0.667,NO_MATCH,Suncorp-Metway Ltd
+SUNHUN,0.7,NO_MATCH,Sun Hung Kai Properties
+SWEDA,0.909,Swedbank AS,Swedbank AB
+SWFP,0.947,Sodexo S.A.,Sodexo SA
+SWIRE,1.0,Swire Pacific Limited,Swire Pacific
+SWK,1.0,"Stanley Black & Decker, Inc.",Stanley Black & Decker
+SYNNVX,1.0,Syngenta AG,Syngenta AG
+SYY,1.0,Sysco Corporation,Sysco Corp
+SZUGR,0.667,NO_MATCH,Suedzucker
+T,1.0,"AT&T International Holdings, LLC",AT T Inc
+TAP,0.93,Molson Coors Brewing Company (UK) Limited,Molson Coors Brewing Co
+TCKBCN,1.0,Teck Resources Limited,Teck Resources Ltd
+TCN,1.0,TELUS Corporation,TELUS Corp
+TD,1.0,The Toronto-Dominion Bank,Toronto-Dominion Bank
+TDCDC,0.714,NO_MATCH,TDC A/S
+TELEFO,0.889,"Telefónica, S.A.",Telefonica SA
+TELIAS,0.824,Teleca AB,Telia Co AB
+TELNO,1.0,Telenor ASA,Telenor ASA
+TELVIS,0.919,"Grupo Televisa, S.A.B.",Grupo Televisa SA
+TEVA,1.0,Teva Pharmaceutical Industries Limited,Teva Pharmaceutical Industries Ltd
+TGT,1.0,Target Corporation,Target Corp
+TITIM,0.947,Telecom Italia S.p.A.,Telecom Italia SpA
+TJX,0.667,NO_MATCH,TJX Cos Inc
+TKAAV,1.0,Telekom Austria AG,Telekom Austria AG
+TKAGR,1.0,thyssenkrupp AG,thyssenkrupp AG
+TLSAU,1.0,Telstra Group Limited,Telstra Corp Ltd
+TOTAL,0.762,"Total E&P USA, Inc.",TOTAL SA
+TOYOTA,1.0,Toyota Motor Corporation,Toyota Motor Corp
+TOYOTS,1.0,Toyota Tsusho Corporation,Toyota Tsusho Corp
+TRICN,1.0,Thomson Reuters Corporation,Thomson Reuters Corp
+TRV,0.818,"The Travelers Companies, Inc.",Travelers Cos Inc
+TSCOLN,1.0,Tesco PLC,Tesco PLC
+TSN,1.0,"Tyson Foods, Inc.",Tyson Foods Inc
+TT,1.0,Ingersoll-Rand International Limited,Ingersoll-Rand
+TTEFP,0.897,TotalEnergies SE,TotalEnergies
+TTMTIN,1.0,Jaguar Land Rover Automotive plc,Jaguar Land Rover Automotive Plc
+TXN,1.0,Texas Instruments Incorporated,Texas Instruments Inc
+TXT,1.0,Textron Inc.,Textron Inc
+UBIIM,0.967,Unione di Banche Italiane S.p.A.,Unione di Banche Italiane SpA
+UCGIM,0.929,UniCredit S.p.A.,UniCredit SpA
+UDR,1.0,"UDR, Inc.",UDR Inc
+UHS,1.0,"Universal Health Services, Inc.",Universal Health Services Inc
+ULFP,0.556,NO_MATCH,Unibail Rodamco Westfield
+UNBC,1.0,"MUFG Bank, Ltd.",MUFG Bank
+UNH,1.0,UnitedHealth Group Incorporated,UnitedHealth Group Inc
+UNIIM,0.944,Unipol Gruppo S.p.A.,Unipol Gruppo SpA
+UNILAB,0.688,NO_MATCH,Unilabs Subholding AB
+UNM,1.0,Unum Group,Unum Group
+UNP,1.0,Union Pacific Corporation,Union Pacific Corp
+UPCB,0.828,Océ Holding B.V.,UPC Holding BV
+UPMFH,1.0,UPM-Kymmene Oyj,UPM-Kymmene Oyj
+UPS,1.0,"United Parcel Service, Inc.",United Parcel Service Inc
+URI,1.0,"United Rentals (North America), Inc.",United Rentals North America Inc
+USB,0.952,U.S. Bancorp,US Bancorp
+UU,0.842,United Utilities Group PLC,United Utilities Water Ltd
+VALEBZ,0.933,Vale S.A.,Vale SA
+VATFAL,1.0,Vattenfall AB,Vattenfall AB
+VERAV,0.706,NO_MATCH,Verbund AG
+VFC,0.8,"VFA, Inc.",VF Corp
+VIAC,1.0,Viacom International Inc.,Viacom
+VIEFP,1.0,Veolia Environnement SA,Veolia Environnement SA
+VIVFP,0.9,Vivendi SE,Vivendi SA
+VLO,1.0,Valero Energy Corporation,Valero Energy Corp
+VLVY,0.824,Volvo Car Corporation,Volvo AB
+VMC,1.0,Vulcan Materials Company,Vulcan Materials Co
+VOD,1.0,Vodafone Limited,Vodafone Group PLC
+VW,1.0,Volkswagen AG,Volkswagen AG
+VZ,1.0,Verizon Communications Inc.,Verizon Communications Inc
+WEC,0.759,Gibson Energy Inc.,Wisconsin Energy Corp
+WELL,1.0,Welltower Inc.,Welltower Inc
+WESAU,0.824,"Farmers Group, Inc.",Wesfarmers Ltd
+WFC,1.0,Wells Fargo Limited,Wells Fargo   Co
+WHR,1.0,Whirlpool Corporation,Whirlpool Corp
+WKLNA,0.971,Wolters Kluwer N.V.,Wolters Kluwer NV
+WM,1.0,"Waste Management, Inc.",Waste Management Inc
+WMB,0.828,Williams Controls Inc.,Williams Cos Inc
+WMT,0.909,Wal-Mart Stores (UK) Limited,Wal-Mart Stores Inc
+WOORIB,0.8,The World Bank Group,Woori Bank Co Ltd
+WPLAU,0.0,NO_CDS_NAME,
+WSTP,0.0,NO_CDS_NAME,
+WU,0.0,NO_CDS_NAME,
+WY,0.0,NO_CDS_NAME,
+XL,0.0,NO_CDS_NAME,
+XOM,0.0,NO_CDS_NAME,
